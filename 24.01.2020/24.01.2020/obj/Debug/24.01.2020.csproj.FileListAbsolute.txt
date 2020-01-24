@@ -1,0 +1,6 @@
+C:\Users\maxim\source\repos\24.01.2020\24.01.2020\bin\Debug\24.01.2020.exe.config
+C:\Users\maxim\source\repos\24.01.2020\24.01.2020\bin\Debug\24.01.2020.exe
+C:\Users\maxim\source\repos\24.01.2020\24.01.2020\bin\Debug\24.01.2020.pdb
+C:\Users\maxim\source\repos\24.01.2020\24.01.2020\obj\Debug\24.01.2020.csprojAssemblyReference.cache
+C:\Users\maxim\source\repos\24.01.2020\24.01.2020\obj\Debug\24.01.2020.exe
+C:\Users\maxim\source\repos\24.01.2020\24.01.2020\obj\Debug\24.01.2020.pdb
