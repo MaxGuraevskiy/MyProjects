@@ -1,0 +1,6 @@
+C:\Users\maxim\source\repos\HomeWork08.02.20\HomeWork08.02.20\bin\Debug\HomeWork08.02.20.exe.config
+C:\Users\maxim\source\repos\HomeWork08.02.20\HomeWork08.02.20\bin\Debug\HomeWork08.02.20.exe
+C:\Users\maxim\source\repos\HomeWork08.02.20\HomeWork08.02.20\bin\Debug\HomeWork08.02.20.pdb
+C:\Users\maxim\source\repos\HomeWork08.02.20\HomeWork08.02.20\obj\Debug\HomeWork08.02.20.csprojAssemblyReference.cache
+C:\Users\maxim\source\repos\HomeWork08.02.20\HomeWork08.02.20\obj\Debug\HomeWork08.02.20.exe
+C:\Users\maxim\source\repos\HomeWork08.02.20\HomeWork08.02.20\obj\Debug\HomeWork08.02.20.pdb
